@@ -13,8 +13,8 @@ html {
 }
 
 h1 {font-size:40px;}
-h2 {font-size:36px;}
-h3 {font-size:30px;}
+h2 {font-size:30px;}
+h3 {font-size:26px;}
 h4 {font-size:24px;}
 h5 {font-size:20px;}
 h6 {font-size:18px;}
@@ -23,6 +23,10 @@ h2 {
   padding-bottom: 14px;
 }
 
+ul li{
+	list-style-type:none;
+	font-size: 13px;
+}
 .accent {
   font-family: 'Proxima Bold';
   line-height: 14px;
